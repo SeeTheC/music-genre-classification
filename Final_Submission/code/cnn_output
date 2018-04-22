@@ -1,0 +1,154 @@
+Batch 0 to 49
+Train Accuracy: 0.229532
+Test Accuracy:  0.194532
+Batch 50 to 99
+Train Accuracy: 0.129473
+Test Accuracy:  0.149473
+Batch 100 to 149
+Train Accuracy: 0.129415
+Test Accuracy:  0.149415
+Batch 150 to 199
+Train Accuracy: 0.20937
+Test Accuracy:  0.18937
+Batch 200 to 249
+Train Accuracy: 0.189329
+Test Accuracy:  0.134329
+Batch 250 to 299
+Train Accuracy: 0.169279
+Test Accuracy:  0.129279
+Batch 300 to 349
+Train Accuracy: 0.10923
+Test Accuracy:  0.14423
+Batch 350 to 399
+Train Accuracy: 0.249197
+Test Accuracy:  0.164197
+Batch 400 to 449
+Train Accuracy: 0.289171
+Test Accuracy:  0.164171
+Batch 450 to 499
+Train Accuracy: 0.269135
+Test Accuracy:  0.194135
+Batch 500 to 549
+Train Accuracy: 0.229093
+Test Accuracy:  0.154093
+Batch 550 to 599
+Train Accuracy: 0.22905
+Test Accuracy:  0.15405
+Batch 600 to 649
+Train Accuracy: 0.189011
+Test Accuracy:  0.144011
+Batch 650 to 699
+Train Accuracy: 0.208978
+Test Accuracy:  0.138978
+Batch 700 to 749
+Train Accuracy: 0.348949
+Test Accuracy:  0.17395
+Batch 750 to 799
+Train Accuracy: 0.208924
+Test Accuracy:  0.228924
+
+
+Image: 200x200x4
+1st layer filters = 20
+2nd layer filters = 10
+
+
+Batch 0 to 49
+Train Accuracy: 0.187519
+Test Accuracy:  0.127519
+Batch 50 to 99
+Train Accuracy: 0.1686
+Test Accuracy:  0.1286
+Batch 100 to 149
+Train Accuracy: 0.168206
+Test Accuracy:  0.113206
+Batch 150 to 199
+Train Accuracy: 0.168132
+Test Accuracy:  0.118132
+Batch 200 to 249
+Train Accuracy: 0.228094
+Test Accuracy:  0.163094
+Batch 250 to 299
+Train Accuracy: 0.128062
+Test Accuracy:  0.143062
+Batch 300 to 349
+Train Accuracy: 0.108032
+Test Accuracy:  0.138032
+Batch 350 to 399
+Train Accuracy: 0.16801
+Test Accuracy:  0.14801
+Batch 400 to 449
+Train Accuracy: 0.167996
+Test Accuracy:  0.137996
+Batch 450 to 499
+Train Accuracy: 0.147984
+Test Accuracy:  0.157984
+Batch 500 to 549
+Train Accuracy: 0.127976
+Test Accuracy:  0.132976
+Batch 550 to 599
+Train Accuracy: 0.127971
+Test Accuracy:  0.127971
+Batch 600 to 649
+Train Accuracy: 0.0879675
+Test Accuracy:  0.147968
+Batch 650 to 699
+Train Accuracy: 0.127964
+Test Accuracy:  0.137965
+Batch 700 to 749
+Train Accuracy: 0.14796
+Test Accuracy:  0.17796
+Batch 750 to 799
+Train Accuracy: 0.14796
+Test Accuracy:  0.14796
+
+
+Batch 0 to 49
+Train Accuracy: 0.267862
+Test Accuracy:  0.167862
+Batch 50 to 99
+Train Accuracy: 0.147858
+Test Accuracy:  0.182858
+Batch 100 to 149
+Train Accuracy: 0.187853
+Test Accuracy:  0.187853
+Batch 150 to 199
+Train Accuracy: 0.187848
+Test Accuracy:  0.147848
+Batch 200 to 249
+Train Accuracy: 0.167843
+Test Accuracy:  0.162843
+Batch 250 to 299
+Train Accuracy: 0.207839
+Test Accuracy:  0.102839
+Batch 300 to 349
+Train Accuracy: 0.147833
+Test Accuracy:  0.122833
+Batch 350 to 399
+Train Accuracy: 0.207829
+Test Accuracy:  0.127829
+Batch 400 to 449
+Train Accuracy: 0.207824
+Test Accuracy:  0.152824
+Batch 450 to 499
+Train Accuracy: 0.12782
+Test Accuracy:  0.17782
+Batch 500 to 549
+Train Accuracy: 0.227816
+Test Accuracy:  0.182816
+Batch 550 to 599
+Train Accuracy: 0.247812
+Test Accuracy:  0.202812
+Batch 600 to 649
+Train Accuracy: 0.147808
+Test Accuracy:  0.182808
+Batch 650 to 699
+Train Accuracy: 0.207804
+Test Accuracy:  0.172804
+Batch 700 to 749
+Train Accuracy: 0.2878
+Test Accuracy:  0.1828
+Batch 750 to 799
+Train Accuracy: 0.167796
+Test Accuracy:  0.177796
+
